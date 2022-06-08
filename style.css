@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  body{ 
+    background-color: #819ca9;
+    background-position: center;
+    background: cover;
+    color:#7d7d7d7d;
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+    
+  }
+  
+  
+  button{ 
+    background-color: #29434e;
+    color:white;
+    padding: 15px 32px;
+    font-size:20px;
+    border-radius: 125px;
+    
+  }
+  header{
+    width: 100%;
+    height:125px;
+    margin:0;
+    padding:0;
+    background-color:#29434e;
+  }
+  h1{ 
+    font-size: 50px;
+    font-style: bold;
+    display: block;
+    margin: 50px 50px;
+    color:white;
+  
+  }
+  h2{
+   
+    background-color: #29434e;
+    color: #fff;
+    opacity: 0.7;
+    border: #fff solid ;
+    font-size: 25px;
+  }
+  
+  .element1{
+    text-align:center;
+    margin:30px 30px;
+    padding: 2rem 2rem;
+    
+    
+  }
+  .element2{
+    display: inline-block;
+    
+    vertical-align:middle;
+    margin:30px 30px;
+    height: 250px;
+    border: solid white 5px;
+    border-radius:100px;
+     }
+  
+  
